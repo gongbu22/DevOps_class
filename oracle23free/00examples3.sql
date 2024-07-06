@@ -326,4 +326,3 @@ select HIRE_DATE,
        last_day(HIRE_DATE)
 from EMPLOYEES
 order by HIRE_DATE desc;
-
